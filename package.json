@@ -1,0 +1,21 @@
+{
+  "name": "mw-test-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js",
+    "generate-report": "node generate-report.js",
+    "posttest": "npm run generate-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.5.0",
+    "@faker-js/faker": "^8.4.1",
+    "@playwright/test": "^1.46.1",
+    "cucumber-html-reporter": "^7.1.1",
+    "playwright": "^1.46.1"
+  }
+}
