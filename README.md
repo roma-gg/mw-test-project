@@ -74,7 +74,7 @@ Execute your tests and review the results in the console.
 
 ## 🤝 Contact
 
-If you have any questions or need assistance, don't hesitate to reach out. We're here to help!
+If you have any questions or need assistance, don't hesitate to reach out. I am here to help!
 
 Happy testing! 🚀
 
