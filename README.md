@@ -8,6 +8,11 @@ Welcome to the **MirrorWeb Testing Framework** repository! 🎉
 
 This repository contains a testing framework built using JavaScript, Cucumber, and Playwright. It's designed to provide a robust solution for end-to-end testing and is geared towards enhancing the reliability of web applications.
 
+## Bug Report
+
+For a detailed list of bugs and improvements, refer to the [Original App Bugs Report](./OriginalAppBugs.md).
+
+
 ## 🛠️ Features
 
 - **Behavior-Driven Development (BDD):** Utilizes Cucumber for writing clear, human-readable test scenarios.
