@@ -26,11 +26,13 @@ Run the following command to install the required dependencies:
 npm install
 ```
 
-### 2. Fix 2 critical bugs in original app:
+### 2. Install Cucumber.js and Gherkin plugins (for IntelliJ)
+
+### 3. Fix 2 critical bugs in original app:
 - Add dependency array in useEffect of MessageList() function (_layout.dashboard.tsx)
 - Remove wait from app.get('/messages') function
 
-### 3. Run the Tests
+### 4. Run the Tests
 
 Execute the tests with the following command:
 
